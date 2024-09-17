@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+Tic-Tac-Toe Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Tic-Tac-Toe game built with React.js! This classic game allows two players to compete by placing X and O on a 3x3 grid. The game detects wins, draws, and allows players to reset for another round.
 
-## Available Scripts
+Features
 
-In the project directory, you can run:
+Two-Player Mode: Play against another person.
+Win Detection: Automatically detects when a player wins or if the game is a draw.
+Responsive Design: Works on various devices.
+Game Reset: Easily reset the game board to start a new game.
 
-### `npm start`
+Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React.js: For building the user interface.
+CSS: For styling the game board and components.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Installation and Setup
+1. Clone the Repository
+bash Copy code
+git clone https://github.com/Gokul461/Tic-Tac-Toe-Game.git
+cd Tic-Tac-Toe-Game
 
-### `npm test`
+2. Install Dependencies
+Ensure you have Node.js installed, then run:
+bash
+Copy code
+npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Start the Development Server
+bash
+Copy code
+npm start
+Open your browser and navigate to http://localhost:3000 to play the game.
 
-### `npm run build`
+How to Play
+Players Take Turns: Click on the empty squares on the grid to place your X or O.
+Winning: The game detects if a player has three of their marks in a row, either horizontally, vertically, or diagonally.
+Draw: If all squares are filled and no player has won, the game ends in a draw.
+Reset: Click the reset button to start a new game.
+Screenshot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![tic tac toe](https://github.com/user-attachments/assets/cedca89c-28a0-4a09-a091-a04af078599e)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Future Improvements
+AI Opponent: Implement an AI player for single-player mode.
+Score Tracking: Add functionality to track wins, losses, and draws.
+Animations: Enhance user experience with animations and visual effects.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contributing
+Feel free to open issues or submit pull requests. Contributions are welcome!
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contact
+For any questions or feedback, please reach out to Gokul.
