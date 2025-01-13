@@ -14,31 +14,6 @@ Welcome to the **Tic-Tac-Toe** game built with **React.js**! This classic game a
 - **React.js**: For building the dynamic user interface.
 - **CSS**: For styling and layout of the game board.
 
-## 🚀 Installation and Setup
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Gokul461/Tic-Tac-Toe-Game.git
-   cd Tic-Tac-Toe-Game
-   ```
-
-2. **Install Dependencies**
-
-   Ensure you have [Node.js](https://nodejs.org/) installed, then run:
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server**
-
-   ```bash
-   npm start
-   ```
-
-   Open your browser and navigate to `http://localhost:3000` to start playing.
-
 ## 🎲 How to Play
 
 - **Players Take Turns**: Click on empty squares to place your X or O.
