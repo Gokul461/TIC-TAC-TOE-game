@@ -37,7 +37,7 @@ Feel free to open issues or submit pull requests. Contributions are welcome!
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to [Gokul](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [Gokul](mailto:gokulnath461123456@gmail.com).
 
 ---
 
